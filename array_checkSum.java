@@ -1,4 +1,5 @@
 //program to find a sum of two values in an array which is key.
+
 import java.util.Scanner;
 public class ArrayWrite
 {
